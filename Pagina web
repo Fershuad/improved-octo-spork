@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TECNOFERCH</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <style>
+    
+        body {
+            background-color: #8102a8;
+            font-family: Arial, sans-serif;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f7f7f7;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            text-align: center;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #7b00ff;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        h2 {
+            color: #56119f;
+        }
+</style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="C:\Users\Hp\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2023-09-27 220224.png" alt="Logo de TECNOFERCH">
+            <p style="font-style: italic;">La tecnología en la mente de todos</p>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#Promesa-de-valor">Promesa de valor</a></li>
+                <li><a href="#grupo-objetivo">Grupo Objetivo</a></li>
+                <li><a href="#escalabilidad">Escalabilidad</a></li>
+                <li><a href="#opciones-interaccion">Opciones de Interacción</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+                
+            </ul>
+        </nav>
+
+        
+        <section id="Promesa-de-valor">
+            <h2>Promesa de Valor</h2>
+            <p>En TECNOFERCH, nuestra promesa de valor es brindar soluciones tecnológicas de vanguardia y asesoramiento personalizado para transformar la forma en que las personas y las empresas utilizan la tecnología. Nos esforzamos por poner la tecnología al alcance de todos, haciéndola comprensible y accesible. Con nuestra ayuda, puede navegar por el mundo digital con confianza y aprovechar al máximo todas las oportunidades que ofrece.</p>
+        </section>
+
+        <section id="grupo-objetivo">
+            <h2>Grupo Objetivo</h2>
+            <p>Nuestro grupo objetivo son profesionales, ejecutivos, empresarios y personas de la clase media y alta que desean aprovechar las ventajas de la tecnología para mejorar sus vidas y negocios. Estas personas valoran la calidad y están dispuestas a invertir en soluciones tecnológicas de alto nivel.</p>
+        </section>
+    
+        <section id="opciones-interaccion">
+            <h2>Opciones de Interacción</h2>
+            <p>Ofrecer consultas personalizadas con expertos en tecnología para evaluar las necesidades y objetivos individuales. Desarrollar planes estratégicos de tecnología adaptados a las metas y presupuestos de cada cliente. Proporcionar servicios de implementación y capacitación en tecnología para garantizar una adopción efectiva. Mantener una plataforma en línea con recursos y contenido exclusivo sobre las últimas tendencias tecnológicas. Ofrecer un club de membresía exclusivo para los clientes más comprometidos. Los miembros tendrían acceso a eventos privados, webinars, demostraciones de productos y sesiones de preguntas y respuestas con expertos en tecnología. Implementar una plataforma de preguntas y respuestas en tiempo real en la que los clientes puedan obtener respuestas rápidas a sus consultas tecnológicas. Esto podría ser especialmente útil para resolver problemas urgentes o brindar orientación inmediata sobre tecnología emergente.</p>
+        </section>
+
+        <img src="C:\Users\Hp\Downloads\istockphoto-1295900106-1024x1024.jpg" style="position: relative; left: 300px;" alt="Imagen" width="600" height="300">
+
+        <section>
+            <h2>Modelos de Ingreso</h2>
+            <ol>
+                <li>Tarifas por servicios de consultoría y asesoramiento personalizado.</li>
+                <li>Suscripciones premium que ofrecen acceso exclusivo a contenido y servicios avanzados.</li>
+                <li>Comisiones por la implementación de soluciones tecnológicas específicas.</li>
+                <li>Colaboraciones con empresas tecnológicas para ofrecer productos y servicios especializados.</li>
+            </ol>
+        </section>
+
+        <section id="escalabilidad">
+            <h2>Escalabilidad</h2>
+            <p>Expandir nuestros servicios a nivel nacional e internacional, aprovechando la demanda de asesoramiento tecnológico de alta calidad. Colaborar con empresas líderes en tecnología para ofrecer servicios conjuntos y llegar a una audiencia más amplia. Desarrollar asociaciones con instituciones educativas y programas de formación ejecutiva para ofrecer servicios a profesionales en crecimiento. Utilizar datos y análisis para personalizar aún más nuestros servicios y satisfacer las necesidades cambiantes de nuestros clientes.</p>
+        </section>
+    
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Si desea obtener más información, no dude en ponerse en contacto con nosotros.</p>
+            <p>Correo electrónico: info@tecnoferch.com</p>
+            <p>Teléfono: +123 456 789</p>
+        </section>
+    
+        <div class="images">
+            <img src="C:\Users\Hp\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2023-09-27 220224.png" alt="Imagen 1">
+            
+        </div>
+    </div>
+</body>
+</html>
+```    
